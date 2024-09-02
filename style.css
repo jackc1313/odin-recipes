@@ -1,0 +1,18 @@
+.titolo {
+    font-family: 'Palatino Linotype', 'Book Antiqua', "Palatino", serif;
+    background-color: cadetblue;
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+    font-size: 70px;
+}
+
+.intro,
+#elenco {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+#elenco {
+    background-color: azure;
+}

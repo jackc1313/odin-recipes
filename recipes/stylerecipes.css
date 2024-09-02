@@ -1,0 +1,16 @@
+.titolo {
+    font-family: 'Palatino Linotype', 'Book Antiqua', "Palatino", serif;
+    background-color: cadetblue;
+    color: #ffffff;
+    text-align: center;
+    font-style: italic;
+    font-size: 70px;
+}
+
+.titoletto {
+    font-family: 'Palatino Linotype', 'Book Antiqua', "Palatino", serif;
+    background-color: #dc143c;
+    color: #ffffff;
+    font-size: 30px;
+    font-style: italic;
+}
