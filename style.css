@@ -10,9 +10,34 @@
 .intro,
 #elenco {
     font-family: 'Trebuchet MS', sans-serif;
+    
+}
+
+.intro {
     font-size: 30px;
 }
 
 #elenco {
     background-color: azure;
+    text-align: center;
+    
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+button {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: aqua;
+    color: #ffffff;
+    border-radius: 10px;
+    font-size: 25px;
+    padding: 7px;
+}
+
+button:hover {
+    background-color: chartreuse;
 }
